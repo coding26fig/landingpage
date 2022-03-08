@@ -7,7 +7,7 @@ Refactoring an existing marketing agency's site to make it more user accessible.
 My Objective with this project was to add symantic elemants to the html to make this website more user acessible. I wanted to make sure every reader was able to understand and differentiate the different types of information provided. I also wanted to structure the contents of the page so it easier to edit and style.  
 
 ## Installation
-
+https://coding26fig.github.io/landingpage/
 
 ## Technologies
 1. HTML
